@@ -1,5 +1,7 @@
 package com.mshaq.dp.cpc;
 
+import com.mshaq.dp.cpc.strategy.DetailPrinter;
+
 import java.util.LinkedList;
 
 public class Client {

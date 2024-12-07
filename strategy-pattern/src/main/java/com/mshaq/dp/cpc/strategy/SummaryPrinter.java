@@ -1,4 +1,6 @@
-package com.mshaq.dp.cpc;
+package com.mshaq.dp.cpc.strategy;
+
+import com.mshaq.dp.cpc.Order;
 
 import java.util.Collection;
 import java.util.Iterator;
